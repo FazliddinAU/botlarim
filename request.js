@@ -7,7 +7,7 @@ try {
     url: 'https://instagram-story-downloader-media-downloader.p.rapidapi.com/index',
     params: {url: insta_url },
     headers: {
-      'x-rapidapi-key': '39348e08a3mshd647332fa2e32cfp148c81jsn9eb475a9850f',
+      'x-rapidapi-key': 'bb57b7564fmsh64eca808473ccbfp12ebd1jsn6ea9fe8e09cc',
       'x-rapidapi-host': 'instagram-story-downloader-media-downloader.p.rapidapi.com'
     }
   };
